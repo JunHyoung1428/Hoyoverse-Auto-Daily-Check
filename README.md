@@ -1,0 +1,1 @@
+# Hoyoverse Auto Daily Check
