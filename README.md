@@ -1,6 +1,6 @@
 # Hoyoverse Auto Daily Check
 
-
+- Auto daily check Hoyoverse Games by Github Actions
 
 
 
