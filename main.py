@@ -28,8 +28,8 @@ games = [
         "enable": True,
         "name": "젠레스 존 제로",
         "url": "https://sg-act-nap-api.hoyolab.com/event/luna/zzz/os/sign?lang=ko-kr&act_id=e202406031448091",
-        "successMessage": " ZZZ 출석 체크 성공",
-        "failureMessage":  "ZZZ 출석 체크 실패",
+        "successMessage": "ZZZ 출석체크 성공",
+        "failureMessage": "ZZZ 출석체크 실패",
     },
     {
         "enable": False,
