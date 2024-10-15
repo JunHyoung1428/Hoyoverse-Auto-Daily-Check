@@ -56,6 +56,10 @@ def main():
                 "Referer": "https://act.hoyolab.com/",
                 "Origin": "https://act.hoyolab.com",
             }
+            if game["name"] == "젠레스 존 제로":
+                headers["x-rpc-signgame"] = "zzz"
+
+            
             response = requests.post(game["url"], headers=headers)
             response_json = response.json()
 
